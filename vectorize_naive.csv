@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+          긍정       0.85      0.88      0.86      1084
+          부정       0.89      0.86      0.87      1218
+
+    accuracy                           0.87      2302
+   macro avg       0.87      0.87      0.87      2302
+weighted avg       0.87      0.87      0.87      2302
